@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xiongkb
 - 👀 I’m interested in art, programming, and video games.
 - 🌱 I’m currently learning reactjs and touching up my  skills.
-- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 💞️ I’m looking to collaborate on simple projects to increase my skills.
 - 📫 How to reach me: xiong.kang.b@gmail.com
 
 <!---
