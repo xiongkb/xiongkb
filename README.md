@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiongkb
-- 👀 I’m interested in art, web development, and games.
+- 👀 I’m interested in art, web development, and UI/UX in video games.
 - 🌱 I’m currently learning reactjs, python and c#.
 - 📫 How to reach me: xiong.kang.b@gmail.com
 
